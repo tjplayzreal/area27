@@ -93,6 +93,7 @@ end
 
 lolololololol.Name = randomString()
 lolololololol.Parent = game.Players.LocalPlayer:WaitForChild("PlayerGui")
+lolololololol.ResetOnSpawn = false
 
 Open.Name = "Open"
 Open.Parent = lolololololol
