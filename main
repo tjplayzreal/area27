@@ -1,5 +1,5 @@
 -- proofing
-if game.PlaceId ~= 2565450271 and not game:GetService("RunService"):IsStudio() then
+if game.PlaceId ~= 2565450271 and not game:GetService("RunService"):IsStudio() and game.PlaceId ~= 5425020134 then
 	warn('what r u doing lol? this isnt area 27v2.')
 	warn('This place ID:')
 	warn(game.PlaceId)
